@@ -1,1 +1,1 @@
-added @angular/flex-layout dependency on 7/23/2018
+Update README.md on 7/26/2018
