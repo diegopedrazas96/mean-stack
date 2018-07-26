@@ -1,1 +1,1 @@
-Update README.md on 7/26/2018
+Fixing npm installation on 7/28/2018
