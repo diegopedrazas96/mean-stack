@@ -1,1 +1,1 @@
-Update CNAME on 8/7/2018
+layout change - update footer on 8/1/2018
