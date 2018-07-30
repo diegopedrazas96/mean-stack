@@ -1,1 +1,1 @@
-fix: merge with master on 7/17/2018
+Fixing style.scss on 7/30/2018
