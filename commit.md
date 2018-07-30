@@ -1,1 +1,1 @@
-Fixing style.scss on 7/30/2018
+trying to swithc to docs based site generation in ghpages on 8/14/2018
