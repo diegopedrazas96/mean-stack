@@ -1,1 +1,1 @@
-fix: merge with master on 7/19/2018
+Update CNAME on 8/7/2018
