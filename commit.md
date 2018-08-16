@@ -1,1 +1,2 @@
-Updated concurrently syntax on 8/17/2018
+Update .env.example on 8/20/2018
+16/2018
