@@ -1,1 +1,1 @@
-CSS TreeComponent - font color and root expander on 9/18/2018
+CSS - placeholer color on 8/30/2018
