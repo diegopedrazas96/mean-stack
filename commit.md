@@ -1,1 +1,1 @@
-CSS TreeComponent - font color and root expander on 9/18/2018
+CSS scroll bar for icons and system-sidebar on 9/13/2018
